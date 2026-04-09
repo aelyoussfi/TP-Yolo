@@ -1,0 +1,32 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated split dataset
+yolo_split/
+
+# Training runs and results
+runs/
+
+# Generated YAML config
+data.yaml
+
+# Downloaded/cached model weights
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Node modules (YOLO_data_tool)
+YOLO_data_tool/node_modules/
+YOLO_data_tool/dist/
+
+# Misc generated files
+*.jpg
+*.png
