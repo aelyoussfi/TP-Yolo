@@ -30,3 +30,6 @@ YOLO_data_tool/dist/
 # Misc generated files
 *.jpg
 *.png
+
+yolo_dataset/
+yolo brutes/
