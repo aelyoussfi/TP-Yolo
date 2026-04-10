@@ -9,7 +9,7 @@
 ## 🚀 Installation
 
 ```bash
-git clone <url-du-repo>
+git clone git@github.com:aelyoussfi/TP-Yolo.git
 cd yolo_training
 ```
 
